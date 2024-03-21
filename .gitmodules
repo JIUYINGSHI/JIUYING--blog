@@ -1,0 +1,3 @@
+[submodule "themes/particlex"]
+    path = themes/particlex
+    url = git@github.com:JIUYINGSHI/particlex-mod.git
