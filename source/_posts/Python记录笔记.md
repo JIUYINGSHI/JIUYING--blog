@@ -2,9 +2,8 @@
 title: 输出语句
 ---
 返回[**编程学习历程**](编程学习历程)
-## 享受音乐
- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5ueiwvUaApGvuQ0wFAREsU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
- 
+## 享受音乐 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5ueiwvUaApGvuQ0wFAREsU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 #print 
 ```python
 {
@@ -106,3 +105,4 @@ title: 输出语句
 }
 ```
 在语句含义中遇到开头为 r 或者 R 的时候，会使后面的转义字符失效，使它们按照原文进行输出
+>dad da ad adwdegfrg g 
